@@ -50,12 +50,11 @@
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 Currently Working On
 
-- 🕸️ Flask, FastAPI, and Next.js  
-- ☁️ Deployment with Render / Vercel  
-- 🔐 Advanced cybersecurity concepts  
-- 🎨 3D modeling in OpenGL (CS330 project 👀)  
+- 🕸️ React and Next.js
+- 🔐 Advanced cybersecurity concepts
+- 💾 HackPrinceton Fall 2025
 
 ---
 
