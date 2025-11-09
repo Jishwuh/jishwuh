@@ -78,6 +78,6 @@
 
 <h3 align="center">⚡ Let's Connect</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/joshua-niyazov-85a043260/"><img src="https://img.shields.io/badge/LinkedIn-Joshua%20Niyazov-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/joshua-n-85a043260/"><img src="https://img.shields.io/badge/LinkedIn-Joshua%20Niyazov-0077B5?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://jishwuh.com"><img src="https://img.shields.io/badge/Website-jishwuh.com-8A2BE2?style=for-the-badge&logo=google-chrome" /></a>
 </p>
