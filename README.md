@@ -53,8 +53,6 @@
 ### 🌱 Currently Working On
 
 - 🕸️ React and Next.js
-- 🔐 Advanced cybersecurity concepts
-- 💾 HackPrinceton Fall 2025
 
 ---
 
