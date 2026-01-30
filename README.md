@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hey there, I'm Josh (aka Jishwuh)</h1>
 
 <p align="center">
-  <b>💻 Computer Science Student @ SNHU | 🧠 Creator of LinkHub</b><br>
+  <b>📜 Bachelor of Science in Computer Science | 🧠 Creator of LinkHub</b><br>
   <a href="https://jishwuh.com">🌐 jishwuh.com</a> • 
   <a href="https://www.linkedin.com/in/joshua-niyazov-85a043260/">💼 LinkedIn</a> • 
   <a href="https://github.com/Jishwuh?tab=repositories">📁 Projects</a>
