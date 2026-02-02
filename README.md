@@ -5,7 +5,7 @@
 <p align="center">
   <b>📜 Bachelor of Science in Computer Science | 🧠 Creator of LinkHub</b><br>
   <a href="https://jishwuh.com">🌐 jishwuh.com</a> • 
-  <a href="https://www.linkedin.com/in/joshua-niyazov-85a043260/">💼 LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/joshua-niyazov/">💼 LinkedIn</a> • 
   <a href="https://github.com/Jishwuh?tab=repositories">📁 Projects</a>
 </p>
 
